@@ -30,6 +30,10 @@ export default function Home() {
             <h3>Wonderful Abioye About Me &rarr;</h3>
             <p>Click here to navigate to Wonderful's About Me</p>
           </a>
+          <a href='/MaxLane' className='card'>
+            <h3>Max Lane About Me &rarr;</h3>
+            <p>Click here to navigate to Max's About Me</p>
+          </a>
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
